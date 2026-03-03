@@ -1,9 +1,11 @@
+public static void main(String[] args) {
 
-public class OOPSBannerApp {
+    feature/UC2-BannerPrint
+    System.out.println("  *****   *****   ******   *****  ");
+    System.out.println(" *     * *     *  *     *  *      ");
+    System.out.println(" *     * *     *  *     *  *      ");
+    System.out.println(" *     * *     *  ******   *****  ");
+    System.out.println(" *     * *     *  *            *  ");
+    System.out.println(" *     * *     *  *            *  ");
+    System.out.println("  *****   *****   *        *****  ");
 
-    public static void main(String[] args) {
-
-        System.out.println("OOPS");
-
-    }
-}
